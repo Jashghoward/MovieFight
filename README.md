@@ -10,4 +10,9 @@ Files that are included:
 2. index.html
 3. style.css
 4. README.md 
-5. utils,js 
+5. utils.js 
+
+
+Autocomplete.js
+
+This is used to complete words that are entered into the search bar this function will suggest cmpleted words after the user begins to type.
