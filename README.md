@@ -6,7 +6,8 @@ This application has an autocomplete function that is used within the searchbars
 
 Files that are included: 
 
-1. autocomplete
+1. autocomplete.js
 2. index.html
 3. style.css
 4. README.md 
+5. utils,js 
