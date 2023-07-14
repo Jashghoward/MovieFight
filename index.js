@@ -96,12 +96,7 @@ const movieTemplate = (movieDetail) => {
   const awards = movieDetail.Awards.split(' ').reduce((prev, word) => {
     const value = parseInt(word);
 
-    if (isNaN(value)) {
-      return prev;
-    } else {
-      return prev + value;
-    }
-  }, 0);
+
 
 
 
