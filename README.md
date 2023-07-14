@@ -16,3 +16,6 @@ Files that are included:
 Autocomplete.js
 
 This is used to complete words that are entered into the search bar this function will suggest cmpleted words after the user begins to type.
+
+
+The API in this application is omdbapi, this api gets automatically updated so that movies that may be released after the creation of this app, they will still be available to view.
