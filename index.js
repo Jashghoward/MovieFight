@@ -14,6 +14,7 @@ const autoCompleteConfig = {
       params: {
         apikey: '70d4269a',
         s: searchTerm
+        // remember to check the the key that the api uses for the "s" key in the object
       }
     });
   
@@ -142,7 +143,6 @@ const movieTemplate = (movieDetail) => {
     </article>
   `;
 };
-
 
 
 
