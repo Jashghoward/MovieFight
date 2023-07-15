@@ -43,7 +43,6 @@ createAutoComplete({
   }
 });
 
-
 let leftMovie;
 let rightMovie;
 const onMovieSelect = async (movie, summaryElement, side) => {
