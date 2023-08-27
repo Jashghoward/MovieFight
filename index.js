@@ -6,8 +6,6 @@ const autoCompleteConfig = {
     ${movie.Title} (${movie.Year})
     `;
   },
-
-  
   inputValue(movie) {
     return movie.Title;
   },
