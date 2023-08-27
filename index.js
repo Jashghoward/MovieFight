@@ -5,6 +5,7 @@ const autoCompleteConfig = {
     <img src="${imgSrc}" />
     ${movie.Title} (${movie.Year})
     `;
+    
   },
   inputValue(movie) {
     return movie.Title;
